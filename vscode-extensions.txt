@@ -1,0 +1,15 @@
+akamud.vscode-theme-onedark
+cschlosser.doxdocgen
+DavidAnson.vscode-markdownlint
+jeff-hykin.better-cpp-syntax
+mhutchie.git-graph
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+ms-vscode.atom-keybindings
+ms-vscode.cpptools
+PKief.material-icon-theme
+twxs.cmake
+vector-of-bool.gitflow
